@@ -12,7 +12,7 @@
   - [App for University student](https://github.com/FabioERodrigues/University-Dashboard-App)
 - <b>Python</b>
   - [Python Data science project](https://github.com/FabioERodrigues/PythonDataScienceProject)
-  - [100 days of python Udemy course projects](https://github.com/FabioERodrigues/100-days-of-python-Udemy)
+  - [Sentiment analysis web application using BERT](https://github.com/FabioERodrigues/sentiment-analysis-python)
   
 <!--
 <h2>📺 Popular YouTube Videos</h2>
