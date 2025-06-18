@@ -13,6 +13,7 @@
 - <b>Python</b>
   - [Python Data science project](https://github.com/FabioERodrigues/PythonDataScienceProject)
   - [Sentiment analysis web application using BERT](https://github.com/FabioERodrigues/sentiment-analysis-python)
+  - [Loan status predictor using ml](https://github.com/FabioERodrigues/Loan-status-predictor-using-ml)
   
 <!--
 <h2>📺 Popular YouTube Videos</h2>
