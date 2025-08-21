@@ -11,6 +11,7 @@
 - <b>Java</b>
   - [App for University student](https://github.com/FabioERodrigues/University-Dashboard-App)
 - <b>Python</b>
+  - [ML sentiment analysis models research](https://github.com/FabioERodrigues/Sentiment-analysis-model-research)
   - [Python Data science project](https://github.com/FabioERodrigues/PythonDataScienceProject)
   - [Sentiment analysis web application using BERT](https://github.com/FabioERodrigues/sentiment-analysis-python)
   - [Loan status predictor using ml](https://github.com/FabioERodrigues/Loan-status-predictor-using-ml)
